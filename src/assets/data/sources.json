@@ -1,0 +1,460 @@
+{
+    "sources": [{
+
+				"id": "1",
+				"name": "ABC News (AU)",
+				"source": "abc-news-au",
+				"banner": "assets/icon-source/abc-news-au.png"
+
+        	},
+			{
+
+				"id": "2",
+				"name": "Al Jazeera English",
+				"source": "al-jazeera-english",
+				"banner": "assets/icon-source/al-jazeera-english.png"
+
+			},			
+			{
+
+				"id": "13",
+				"name": "Ars Technica",
+				"source": "ars-technica",
+				"banner": "assets/icon-source/ars-technica.png"
+
+			},
+			{
+
+				"id": "14",
+				"name": "Associated Press",
+				"source": "associated-press",
+				"banner": "assets/icon-source/associated-press.png"
+
+			},
+			{
+
+				"id": "3",
+				"name": "BBC News",
+				"source": "bbc-news",
+				"banner": "assets/icon-source/bbc-news.png"
+
+			},
+			{
+
+				"id": "4",
+				"name": "BBC Sport",
+				"source": "bbc-sport",
+				"banner": "assets/icon-source/bbc-sport.png"
+
+			},
+			{
+
+				"id": "5",
+				"name": "Bild",
+				"source": "bild",
+				"banner": "assets/icon-source/bild.png"
+
+			},
+			{
+
+				"id": "6",
+				"name": "Bloomberg",
+				"source": "bloomberg",
+				"banner": "assets/icon-source/bloomberg.png"
+
+			},
+			{
+
+				"id": "15",
+				"name": "Breitbart News",
+				"source": "breitbart-news",
+				"banner": "assets/icon-source/breitbart-news.png"
+
+			},
+			{
+
+				"id": "18",
+				"name": "Business Insider",
+				"source": "business-insider",
+				"banner": "assets/icon-source/business-insider.png"
+
+			},
+			{
+
+				"id": "7",
+				"name": "Business Insider (UK)",
+				"source": "business-insider-uk",
+				"banner": "assets/icon-source/business-insider-uk.png"
+
+			},
+			{
+
+				"id": "16",
+				"name": "Buzzfeed",
+				"source": "buzzfeed",
+				"banner": "assets/icon-source/buzzfeed.png"
+
+			},
+			{
+
+				"id": "17",
+				"name": "CNBC",
+				"source": "cnbc",
+				"banner": "assets/icon-source/cnbc.png"
+
+			},
+			{
+
+				"id": "8",
+				"name": "CNN",
+				"source": "cnn",
+				"banner": "assets/icon-source/cnn.png"
+
+			},
+			{
+
+				"id": "19",
+				"name": "Daily Mail",
+				"source": "daily-mail",
+				"banner": "assets/icon-source/daily-mail.png"
+
+			},
+			{
+
+				"id": "20",
+				"name": "Der Tagesspiegel",
+				"source": "der-tagesspiegel",
+				"banner": "assets/icon-source/der-tagesspiegel.png"
+
+			},
+			{
+
+				"id": "21",
+				"name": "Die Zeit",
+				"source": "die-zeit",
+				"banner": "assets/icon-source/die-zeit.png"
+
+			},
+			{
+
+				"id": "22",
+				"name": "Engadget",
+				"source": "engadget",
+				"banner": "assets/icon-source/engadget.png"
+
+			},
+			{
+
+				"id": "23",
+				"name": "Entertainment Weekly",
+				"source": "entertainment-weekly",
+				"banner": "assets/icon-source/entertainment-weekly.png"
+
+			},
+			{
+
+				"id": "24",
+				"name": "ESPN",
+				"source": "espn",
+				"banner": "assets/icon-source/espn.png"
+
+			},
+			{
+
+				"id": "25",
+				"name": "ESPN Cric Info",
+				"source": "espn-cric-info",
+				"banner": "assets/icon-source/espn-cric-info.png"
+
+			},
+			{
+
+				"id": "26",
+				"name": "Financial Times",
+				"source": "financial-times",
+				"banner": "assets/icon-source/financial-times.png"
+
+			},
+			{
+
+				"id": "27",
+				"name": "Focus",
+				"source": "focus",
+				"banner": "assets/icon-source/focus.png"
+
+			},
+			{
+
+				"id": "28",
+				"name": "Fortune",
+				"source": "fortune",
+				"banner": "assets/icon-source/fortune.png"
+
+			},
+			{
+
+				"id": "29",
+				"name": "FourFourTwo",
+				"source": "four-four-two",
+				"banner": "assets/icon-source/four-four-two.png"
+
+			},
+			{
+
+				"id": "30",
+				"name": "Fox Sports",
+				"source": "fox-sports",
+				"banner": "assets/icon-source/fox-sports.png"
+
+			},
+			{
+
+				"id": "9",
+				"name": "Google News",
+				"source": "google-news",
+				"banner": "assets/icon-source/google-news.png"
+
+			},
+			{
+
+				"id": "31",
+				"name": "Hacker News",
+				"source": "hacker-news",
+				"banner": "assets/icon-source/hacker-news"
+
+			},
+			{
+
+				"id": "32",
+				"name": "Handelsblatt",
+				"source": "handelsblatt",
+				"banner": "assets/icon-source/handelsblatt.png"
+
+			},
+			{
+
+				"id": "10",
+				"name": "IGN",
+				"source": "ign",
+				"banner": "assets/icon-source/ign.png"
+
+			},
+			{
+
+				"id": "33",
+				"name": "Independent",
+				"source": "independent",
+				"banner": "assets/icon-source/independent.png"
+
+			},
+			{
+
+				"id": "34",
+				"name": "Mashable",
+				"source": "mashable",
+				"banner": "assets/icon-source/mashable.png"
+
+			},
+			{
+
+				"id": "35",
+				"name": "Metro",
+				"source": "metro",
+				"banner": "assets/icon-source/metro.png"
+
+			},
+			{
+
+				"id": "36",
+				"name": "Mirror",
+				"source": "mirror",
+				"banner": "assets/icon-source/mirror.png"
+
+			},
+			{
+
+				"id": "37",
+				"name": "MTV News",
+				"source": "mtv-news",
+				"banner": "assets/icon-source/mtv-news.png"
+
+			},
+			{
+
+				"id": "38",
+				"name": "MTV News (UK)",
+				"source": "mtv-news-uk",
+				"banner": "assets/icon-source/mtv-news-uk.png"
+
+			},
+			{
+
+				"id": "39",
+				"name": "National Geographic",
+				"source": "national-geographic",
+				"banner": "assets/icon-source/national-geographic.png"
+
+			},
+			{
+
+				"id": "40",
+				"name": "New Scientist",
+				"source": "new-scientist",
+				"banner": "assets/icon-source/new-scientist.png"
+
+			},
+			{
+
+				"id": "41",
+				"name": "Newsweek",
+				"source": "newsweek",
+				"banner": "assets/icon-source/newsweek.png"
+
+			},
+			{
+
+				"id": "42",
+				"name": "New York Magazine",
+				"source": "new-york-magazine",
+				"banner": "assets/icon-source/new-york-magazine.png"
+
+			},
+			{
+
+				"id": "43",
+				"name": "NFL News",
+				"source": "nfl-news",
+				"banner": "assets/icon-source/nfl-news.png"
+
+			},
+			{
+
+				"id": "44",
+				"name": "Polygon",
+				"source": "polygon",
+				"banner": "assets/icon-source/polygon.png"
+
+			},
+			{
+
+				"id": "45",
+				"name": "Recode",
+				"source": "recode",
+				"banner": "assets/icon-source/recode.png"
+
+			},
+			{
+
+				"id": "46",
+				"name": "Reddit /r/all",
+				"source": "reddit-r-all",
+				"banner": "assets/icon-source/reddit-r-all.png"
+
+			},
+			{
+
+				"id": "47",
+				"name": "Reuters",
+				"source": "reuters",
+				"banner": "assets/icon-source/reuters.png"
+
+			},
+			{
+
+				"id": "48",
+				"name": "Spiegel Online",
+				"source": "spiegel-online",
+				"banner": "assets/icon-source/spiegel-online.png"
+
+			},
+			{
+
+				"id": "49",
+				"name": "T3n",
+				"source": "t3n",
+				"banner": "assets/icon-source/t3n.png"
+
+			},
+			{
+
+				"id": "50",
+				"name": "TalkSport",
+				"source": "talksport",
+				"banner": "assets/icon-source/talksport.png"
+
+			},
+			{
+
+				"id": "51",
+				"name": "TechCrunch",
+				"source": "techcrunch",
+				"banner": "assets/icon-source/techcrunch.png"
+
+			},
+			{
+
+				"id": "52",
+				"name": "TechRadar",
+				"source": "techradar",
+				"banner": "assets/icon-source/techradar.png"
+
+			},
+			{
+
+				"id": "53",
+				"name": "The Economist",
+				"source": "the-economist",
+				"banner": "assets/icon-source/the-economist.png"
+
+			},
+			{
+
+				"id": "54",
+				"name": "The Guardian (AU)",
+				"source": "the-guardian-au",
+				"banner": "assets/icon-source/the-guardian-au.png"
+
+			},
+			{
+
+				"id": "55",
+				"name": "The Lad Bible",
+				"source": "the-lad-bible",
+				"banner": "assets/icon-source/the-lad-bible.png"
+
+			},
+			{
+
+				"id": "11",
+				"name": "The New York Times",
+				"source": "the-new-york-times",
+				"banner": "assets/icon-source/the-new-york-times.png"
+
+			},
+			{
+
+				"id": "56",
+				"name": "The Wall Street Journal",
+				"source": "the-wall-street-journal",
+				"banner": "assets/icon-source/the-wall-street-journal.png"
+
+			},
+			{
+
+				"id": "57",
+				"name": "The Washington Post",
+				"source": "the-washington-post",
+				"banner": "assets/icon-source/the-washington-post"
+
+			},
+			{
+
+				"id": "12",
+				"name": "Time",
+				"source": "time",
+				"banner": "assets/icon-source/time.png"
+
+			}
+			
+    ]
+}

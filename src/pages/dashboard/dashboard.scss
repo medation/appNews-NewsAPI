@@ -1,0 +1,86 @@
+
+
+.ios, .md, .wp {
+ 
+    page-dashboard {
+ 
+        ion-slides{ max-height:23%;}
+        
+        ion-content{
+        background-color:color($colors,primary);
+        background-image:url('../assets/images/bg-music3.jpg');
+        background-size:100% auto;
+        }
+
+        $song-card-height: 90px;
+        
+        
+        ion-list {
+ 
+            margin-top : 20px; 
+
+            margin-bottom: $song-card-height + 20px;
+            
+            
+            .alternate {
+                background-color: map-get($colors, secondary);
+            }
+ 
+            .playing {
+ 
+                background-color: map-get($colors, dark);
+ 
+                img {
+                    opacity: 0.4;
+                }
+            }
+            .btnlist 
+            {
+                margin: 10px 0px;
+            }
+        }
+ 
+        ion-avatar {
+            position: relative;
+        }
+ 
+        ion-spinner {
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin: 4px !important;         
+        }
+ 
+        [ion-item] {
+            background-color: map-get($colors, primary);
+            //padding: 20px;
+        }
+ 
+        ion-card {
+            background-color: map-get($colors, light);
+            opacity: 0.9;
+            height: $song-card-height;
+            bottom: 0;
+        }
+ 
+        ion-footer {
+            height: 75px;
+            background-color: map-get($colors, dark);
+ 
+            ion-grid, ion-row, ion-col {
+                height: 100%;
+            }
+ 
+            ion-col {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        }
+ 
+    }
+    .no-scroll .scroll-content{
+        overflow: hidden;
+    }
+ 
+}

@@ -1,0 +1,21 @@
+
+ 
+<ion-content>
+ 
+    <ion-list >
+        
+        <button class="btnlist" detail-none ion-item *ngFor="let item of sources" (click)="goToHome(item.source)">
+
+            <ion-avatar style="float : right; color : white;">
+              <img [src]="item.banner" >
+            </ion-avatar>
+            <h2 style="color : white;">{{item.name}}</h2>
+            
+        </button>
+
+    </ion-list>
+    
+ 
+</ion-content>
+ 
+

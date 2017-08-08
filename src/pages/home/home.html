@@ -1,0 +1,41 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      {{source}}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content >
+
+  <ion-refresher (ionRefresh)="getArticles($event)">
+    <ion-refresher-content></ion-refresher-content>
+  </ion-refresher>
+
+  <ion-card *ngFor="let article of news.articles">
+    <img [src]="article.urlToImage"/>
+    <ion-card-content>
+      <ion-card-title>
+        {{ article.title }}
+        </ion-card-title>
+      <p>
+        {{ article.description }}
+      </p>
+      <p style="color :brown">
+        <a href="{{article.url}}"> Lire plus ... </a>
+      </p>
+      <p>
+        {{ article.publishedAt }}
+      </p>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>
+
+<!--
+  <ion-footer>
+    <ion-toolbar>
+      <ion-title>Par News API</ion-title>
+    </ion-toolbar>
+  </ion-footer>
+-->
